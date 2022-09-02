@@ -14,6 +14,7 @@ pip3 install yfinance
 pip3 freeze
 ```
 
+
 ```
 zip -r python.zip python
 ```
